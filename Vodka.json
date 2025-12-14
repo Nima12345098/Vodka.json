@@ -7,6 +7,13 @@
     "allowOffline": true
   },
   {
+    "id": "01540e357e9a30f3",
+    "username": "IMAN",
+    "password": "IMAN",
+    "expiresAt": "2026-12-31",
+    "allowOffline": true
+  },
+  {
     "id": "cba1279b7be23409",
     "username": "Astra",
     "password": "AimLock",
