@@ -2,16 +2,16 @@
   "dialog_enable": true,
   "online_enable": true,
 
-  "title": "Premium Login",
+  "title": "Bem vindo ao Mira Pro",
   "descriptions": [
-    "Welcome to Premium Access.",
-    "Enter your password to continue.",
-    "Make sure your device is registered."
+    "Se não conseguir conectar se ao",
+    "Mira Pro, entre em contato com o suporte",
+    "Espero que você goste do Mira Pro"
   ],
 
   "button_login": "Login",
-  "button_admin": "Admin",
-  "button_copy": "Copy ID",
+  "button_admin": "suporte",
+  "button_copy": "Cópia ID",
   "admin_url": "https://google.com",
 
   "device_section": [
