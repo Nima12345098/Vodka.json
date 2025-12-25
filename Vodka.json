@@ -16,19 +16,14 @@
 
   "device_section": [
     {
-      "device_id": "dd255e335396ae07",
-      "password": "HUI-178-FIXEST",
-      "expire_date": "2026-12-31"
-    },
-    {
-      "device_id": "67861434b1889bdf",
-      "password": "SUA-956-DIGEST",
+      "device_id": "1234567890abcdef",
+      "password": "1122",
       "expire_date": "2025-12-31"
     },
     {
-      "device_id": "67861434b1889bdf",
-      "password": "SHA-256-DIGEST",
-      "expire_date": "2026-12-15"
+      "device_id": "abcdef9876543210",
+      "password": "3344",
+      "expire_date": "2026-01-15"
     },
     {
       "device_id": "offline-device",
